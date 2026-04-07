@@ -3,12 +3,15 @@
 ## P1: Office Space Procurement (April 2026)
 
 **Objective**
+
 Identify and shortlist two finalist office spaces for lease recommendation to the executive committee, based on defined evaluation criteria covering location, cost, size, and overall fit.
 
 **Background**
+
 The company is in the process of establishing a physical operating base. A suitable office environment is required to support team hiring, client meetings, and regulatory compliance (including business registration address requirements).
 
 **Scope of Work**
+
 - Conduct a needs assessment with stakeholders to finalize space requirements (headcount, budget ceiling, preferred districts)
 - Research available listings across target areas via brokers, commercial real estate platforms, and direct outreach
 - Conduct site visits with CEO and evaluate each candidate against a standardized scoring rubric approved by the exec committee
@@ -16,12 +19,14 @@ The company is in the process of establishing a physical operating base. A suita
 - Present two finalist options with a clear recommendation rationale
 
 **Deliverables**
+
 - Stakeholder input summary and finalized requirements document
 - Long-list of candidates (up to 8–10 spaces) with preliminary screening notes
 - Site visit report for shortlisted spaces
 - Final comparative deck with two finalist recommendations for exec committee decision
 
 **Success Criteria**
+
 Executive committee selects one of the two finalist spaces within one review cycle, with no material information gaps requiring re-work.
 
 ---
@@ -29,12 +34,15 @@ Executive committee selects one of the two finalist spaces within one review cyc
 ## P2: Intellectual Property Appraisal (April 2026)
 
 **Objective**
+
 Prepare and deliver a complete data package to engage a qualified IP valuation consultant in Korea, enabling the assignment of a defensible fair market value (FMV) for a software IP asset intended for use as an in-kind capital contribution into a startup entity.
 
 **Background**
+
 The investor holds software intellectual property that is being structured as a non-cash investment into the new venture. Under Korean law (상법 and relevant startup investment regulations), in-kind contributions require independent valuation to be recognized at incorporation or during a capital increase. The output of this project will underpin that legal process.
 
 **Scope of Work**
+
 - Catalogue the IP assets in scope: source code, documentation, registered rights (patents, trademarks, copyrights), and associated processes if any
 - Gather technical and commercial documentation required by valuation consultants (development cost records, revenue attribution history if any, comparable licensing benchmarks, technology readiness level)
 - Identify and shortlist qualified IP valuation firms in Korea (technology-specialized preferred; familiarity with startup in-kind contribution context required)
@@ -43,12 +51,14 @@ The investor holds software intellectual property that is being structured as a 
 - Review draft valuation report for completeness and flag any gaps prior to finalization
 
 **Deliverables**
+
 - IP asset inventory and data to be shared with onsultants for handoff
 - Valuation firm shortlist with engagement recommendation in coordinaton with executives
 - Finalized valuation report from appointed consultant
 - Summary memo translating valuation findings
 
 **Success Criteria**
+
 A signed valuation report from a credentialed Korean consultant that satisfies the legal threshold for in-kind contribution recognition, delivered within the project timeline and accepted without material objection by legal counsel.
 
 
