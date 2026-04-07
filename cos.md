@@ -1,6 +1,6 @@
 # Project Briefs
 
-## P1: Office Space Procurement (April 2026)
+## P1: Office Space Procurement (15-20 Hours)
 
 **Objective**
 
@@ -31,7 +31,7 @@ Executive committee selects one of the two finalist spaces within one review cyc
 
 ---
 
-## P2: Intellectual Property Appraisal (April 2026)
+## P2: Intellectual Property Appraisal (15-20 hours)
 
 **Objective**
 
@@ -62,19 +62,18 @@ The investor holds software intellectual property that is being structured as a 
 A signed valuation report from a credentialed Korean consultant that satisfies the legal threshold for in-kind contribution recognition, delivered within the project timeline and accepted without material objection by legal counsel.
 
 
-## P3: Go-to-Market Planning (April or May 2026)
+## P3: Go-to-Market Planning (20+ hours)
 
-Develop a concrete go-to-market strategy for entering the Korean market as a technology provider, targeting two distinct customer segments: SMO (small-to-medium organizations, i.e. larger structured entities with operational complexity) and SMEs actively seeking to adopt AI-driven tooling.
+Develop a concrete go-to-market strategy for entering the Korean market as a technology provider, targeting two distinct customer segments: Mid-Caps (medium sized organizations, i.e. larger structured entities with operational complexity) and SMEs actively seeking to adopt AI-driven tooling.
 
 #### Background
 
-The company is preparing to commercialize its technology offering in Korea. The local market presents a bifurcated opportunity: operationally complex organizations that need managed AI solutions integrated into existing workflows, and growth-stage SMEs that are AI-ready but lack implementation expertise. A single GTM motion is unlikely to serve both; this project will define the optimal approach for each.
+The company is preparing to commercialize its technology offering in Korea. The local market presents a bifurcated opportunity: operationally complex organizations that need managed AI solutions integrated into existing workflows, and SMEs that are not AI-ready and lack implementation expertise. A single GTM motion is unlikely to serve both; this project will define the optimal approach for each.
 Scope of Work
 
 #### Market Intelligence
 
-Map the competitive landscape for AI solution providers and tech consultancies active in Korea across both target segments
-Identify key buying triggers, procurement processes, and decision-maker profiles (e.g. COO, Head of Digital Transformation, CEO for SMEs) for each segment
+Map the competitive landscape for AI solution providers and tech consultancies active in Korea across both target segments.  Identify key buying triggers, procurement processes, and decision-maker profiles (e.g. COO, Head of Digital Transformation, CEO for SMEs) for each segment
 Assess channel options: direct sales, partnership/reseller (SI partners, HR tech platforms, accounting software ecosystems), and digital/inbound
 
 #### Positioning & Messaging
