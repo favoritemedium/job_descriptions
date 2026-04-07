@@ -101,6 +101,7 @@ Messaging framework and one-pager drafts (per segment)
 GTM strategy document with recommended entry sequencing
 90-day execution roadmap
 
-Success Criteria
+#### Success Criteria
+
 Executive committee alignment on GTM strategy within one review cycle; first outbound motions launched within 30 days of approval; at least two qualified discovery conversations initiated within 60 days.
 
