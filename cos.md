@@ -21,8 +21,8 @@ The company is in the process of establishing a physical operating base. A suita
 **Deliverables**
 
 - Stakeholder input summary and finalized requirements document
-- Long-list of candidates (up to 8–10 spaces) with preliminary screening notes
-- Site visit report for shortlisted spaces
+- List of candidates (up to 8–10 spaces) with screening notes
+- Site visit (with CEO) report for shortlisted spaces
 - Final comparative deck with two finalist recommendations for exec committee decision
 
 **Success Criteria**
@@ -35,11 +35,13 @@ Executive committee selects one of the two finalist spaces within one review cyc
 
 **Objective**
 
-Prepare and deliver a complete data package to engage a qualified IP valuation consultant in Korea, enabling the assignment of a defensible fair market value (FMV) for a software IP asset intended for use as an in-kind capital contribution into a startup entity.
+Prepare and deliver a complete package to engage a qualified IP valuation consultant in Korea, enabling the assignment of a defensible fair market value (FMV) for a software IP asset intended for use as an in-kind capital contribution into a startup entity.
 
 **Background**
 
 The investor holds software intellectual property that is being structured as a non-cash investment into the new venture. Under Korean law (상법 and relevant startup investment regulations), in-kind contributions require independent valuation to be recognized at incorporation or during a capital increase. The output of this project will underpin that legal process.
+
+A goal of this project is to use, in a compliant manner, IP value to invest in Korea instead of cash. 
 
 **Scope of Work**
 
