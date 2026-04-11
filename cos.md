@@ -1,6 +1,49 @@
 # Project Briefs
 
-## P1: Office Space Procurement (15-20 Hours)
+
+## P1: Intellectual Property Appraisal
+
+**Objective**
+
+Prepare and deliver a complete package to engage a qualified IP valuation consultant in Korea, enabling the assignment of a defensible fair market value (FMV) for a software IP asset intended for use as an in-kind capital contribution into a startup entity.
+
+**Background**
+
+The investor holds software intellectual property that is being structured as a non-cash investment into the new venture. Under Korean law (상법 and relevant startup investment regulations), in-kind contributions require independent valuation to be recognized at incorporation or during a capital increase.
+
+A goal of this project is to use, in a compliant manner, IP value to capitalize a new company instead of cash. 
+
+**Inputs**
+
+The engineering team will catalogue the IP assets in scope: 
+
+- Source code,
+- Documentation
+- Other design artefacts (screenshots, marketing deck)
+  
+  
+**Scope of Work**
+
+- Catalogue the IP assets in scope: source code, documentation, and associated processes if any
+- Gather technical and commercial documentation required by valuation consultants (development cost records, revenue attribution history if any, comparable licensing benchmarks, technology readiness level) and pass to internal IP team.
+- Identify and shortlist qualified IP valuation firms in Korea (technology-specialized preferred; familiarity with IP in-kind contribution
+- Distribute a concise briefing doc to potential bidders, mangage the biddign process.
+- Serve as the primary liaison between internal stakeholders and the consultant throughout the appraisal process
+- Review draft valuation report for completeness and flag any gaps prior to finalization
+
+**Deliverables**
+
+- Daily 15 minute "standup" meeting with stakeholders
+- IP asset inventory and data to be shared with onsultants for handoff
+- Valuation firm shortlist with engagement recommendation in coordinaton with executives
+- Finalized valuation report from appointed consultant
+
+
+**Success Criteria**
+
+A signed valuation report from a credentialed Korean consultant that satisfies the legal threshold for in-kind contribution recognition, delivered within the project timeline and accepted without material objection by legal counsel.
+
+## P2: Office Space Research
 
 **Objective**
 
@@ -10,59 +53,38 @@ Identify and shortlist two finalist office spaces for lease recommendation to th
 
 The company is in the process of establishing a physical operating base. A suitable office environment is required to support team hiring, client meetings, and regulatory compliance (including business registration address requirements).
 
+**High-Level Requirements**
+
+- Seoul metropolitan area, including Gyeonggi-do
+- Internal usable area (전용면적) of 21+ square meters
+- Within 300m of a major bus stop or metro station
+- Landlord should be flexible with lease term. Ideally 6 month term but 12 is acceptable.
+- Security deposit should be as low as possible and is a key determining factor. Tying up 10 months rent in a deposit is not desirable. If a landlord can reduce deposit in exchange for higher monthly rent it will be considered.
+- Furnished space with desks and chairs is a bonus
+
 **Scope of Work**
 
-- Conduct a needs assessment with stakeholders to finalize space requirements (headcount, budget ceiling, preferred districts)
-- Research available listings across target areas via brokers, commercial real estate platforms, and direct outreach
-- Conduct site visits with CEO and evaluate each candidate against a standardized scoring rubric approved by the exec committee
+- Conduct a needs assessment with stakeholders to finalize and prioritize requirements: budget ceiling, preferred districts
+- Research available listings across target areas via online desk research, commercial real estate platforms, and other means
+- Conduct site visits with CEO and evaluate each candidate against the standardized scoring matrix
 - Prepare a comparative analysis covering: monthly rent, key money (보증금), lease term, fit-out condition, proximity to transit, and any landlord concessions
 - Present two finalist options with a clear recommendation rationale
 
 **Deliverables**
 
-- Stakeholder input summary and finalized requirements document
-- List of candidates (up to 8–10 spaces) with screening notes
+- Stakeholder input summary and finalized scoring spreadsheet
+- List of candidates (minimum 10 spaces) with screening notes and scores
 - Site visit (with CEO) report for shortlisted spaces
-- Final comparative deck with two finalist recommendations for exec committee decision
+- Two finalist recommendations
 
 **Success Criteria**
 
-Executive committee selects one of the two finalist spaces within one review cycle, with no material information gaps requiring re-work.
+Come up with two vialble finalist spaces within one short review cycle.
+
 
 ---
 
-## P2: Intellectual Property Appraisal (15-20 hours)
-
-**Objective**
-
-Prepare and deliver a complete package to engage a qualified IP valuation consultant in Korea, enabling the assignment of a defensible fair market value (FMV) for a software IP asset intended for use as an in-kind capital contribution into a startup entity.
-
-**Background**
-
-The investor holds software intellectual property that is being structured as a non-cash investment into the new venture. Under Korean law (상법 and relevant startup investment regulations), in-kind contributions require independent valuation to be recognized at incorporation or during a capital increase. The output of this project will underpin that legal process.
-
-A goal of this project is to use, in a compliant manner, IP value to invest in Korea instead of cash. 
-
-**Scope of Work**
-
-- Catalogue the IP assets in scope: source code, documentation, registered rights (patents, trademarks, copyrights), and associated processes if any
-- Gather technical and commercial documentation required by valuation consultants (development cost records, revenue attribution history if any, comparable licensing benchmarks, technology readiness level)
-- Identify and shortlist qualified IP valuation firms in Korea (technology-specialized preferred; familiarity with startup in-kind contribution context required)
-- Coordinate the RFP process
-- Serve as the primary liaison between internal stakeholders (technical team, legal counsel) and the consultant throughout the appraisal process
-- Review draft valuation report for completeness and flag any gaps prior to finalization
-
-**Deliverables**
-
-- IP asset inventory and data to be shared with onsultants for handoff
-- Valuation firm shortlist with engagement recommendation in coordinaton with executives
-- Finalized valuation report from appointed consultant
-- Summary memo translating valuation findings
-
-**Success Criteria**
-
-A signed valuation report from a credentialed Korean consultant that satisfies the legal threshold for in-kind contribution recognition, delivered within the project timeline and accepted without material objection by legal counsel.
-
+# OUT OF SCOPE 
 
 ## P3: Go-to-Market Planning (20+ hours)
 
