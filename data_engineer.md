@@ -45,5 +45,5 @@ We are seeking a pragmatic Scraping & Automation Data Engineer to build and main
 
 ## 6. What We Offer
 *   Competitive salary 
-*   Flexible work arrangements ([REMOTE POLICY - e.g., hybrid model based in Shanghai/Shenzhen/Beijing]).
+*   Flexible work arrangements ([REMOTE POLICY - based in Shanghai/Shenzhen/Beijing]).
 *   Budget and time for learning to advance your skills.
