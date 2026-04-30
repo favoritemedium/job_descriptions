@@ -1,4 +1,5 @@
-# Job Description: Scraping & Automation Data Engineer
+# Job Description: 
+# Data and Automation Engineer
 
 ## 1. Role Summary
 We are seeking a pragmatic Scraping & Automation Data Engineer to build and maintain the data pipelines that fuel our business intelligence. In this role, you will own the end-to-end process of acquiring external data at scale, from designing resilient scrapers for complex Chinese web sources to automating workflows that deliver clean, structured data to our internal systems. Your work will directly impact decision-making by ensuring reliable access to critical commercial data from company registries, e-commerce platforms, and regulatory sources. You will balance technical execution with an understanding of the legal and operational realities of data extraction in China.
