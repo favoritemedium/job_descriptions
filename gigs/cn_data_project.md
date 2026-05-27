@@ -16,7 +16,8 @@ To build a comprehensive and authoritative list, the project will utilize a "Thr
 If possible, the project will follow an **API-first extraction** workflow rather than automated scraping, which is often blocked by Chinese government firewalls and CAPTCHAs.
 
 1.  **Initial Mining:** Query QCC and Tianyancha for entities using the Unified Social Credit Code (USCC) or keywords such as **"aluminum smelting" (铝冶炼)** or **"primary aluminum production" (原铝生产)** within their registered business scope.
-2.  **Data Normalization:** Use LLMs (e.g., Claude) to extract text or HTML and convert it into structured **JSON format**, ensuring consistent transliteration of Chinese company names into Pinyin/English.
+2.  **Filtering criteria:** For this project we are only interested in companies that produce aluminium ingots (this may be the trickiest part - document your logic). Companies must be currently **active** (not dormant or closed). Also filter out very small companies which can be done by looking at the share capital. 
+3.  **Data Normalization:** Use LLMs (e.g., Claude) to extract text or HTML and convert it into structured **JSON format**, ensuring consistent transliteration of Chinese company names into Pinyin/English.
 
 ### 4. Required Data Points
 For each entry in the final spreadsheet, the following fields must be collected:
